@@ -29,6 +29,10 @@
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
+- [Awesome Software and Architectural  Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [30 seconds of JS code](https://github.com/30-seconds/30-seconds-of-code)
+- [33 JS concepts](https://github.com/leonardomso/33-js-concepts)
+- [css props](https://github.com/AllThingsSmitty/css-protips)
 - [Others](#others)
 
 ## UI Graphics
